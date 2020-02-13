@@ -1,0 +1,80 @@
+nav {
+   /* padding: 10px;  */
+   margin: 1%;
+}
+.about-us {
+    color: palevioletred;
+    margin: 1%;
+}
+.skills {
+    color: peru;
+    margin: 1%;
+}
+.portfolio {
+    color: burlywood;
+    margin: 1%;
+}
+.contact {
+    color: rgb(247, 113, 113);
+    margin: 1%;
+}
+body {
+    margin: 0;
+}
+#about-us {
+    background-color: rgb(197, 139, 189);
+    /* display: block; */
+}
+#one  {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    background-color:rgb(58, 45, 45);
+    margin: 1%;
+}
+#two {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    background-color:rgb(97, 62, 62);
+    margin: 1%;
+}
+#three
+{
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    background-color:rgb(100, 58, 58);
+    margin: 1%;
+}
+#four {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    background-color:rgb(189, 128, 128);
+    margin: 1%;
+}
+#square1 {
+    display: block;
+    width: 50px;
+    height: 50px;
+    background-color:rgb(58, 45, 45);
+    margin: 1%;
+    border: 5px solid black;
+}
+#square2 {
+    display: block;
+    width: 50px;
+    height: 50px;
+    background-color: rgb(97, 62, 62);
+    margin: 1%;
+    border: 5px solid black;
+}
+#square3 {
+    display: block;
+    width: 50px;
+    height: 50px;
+    background-color: rgb(189, 128, 128);
+    margin: 1%;
+    border: 5px solid black;
+}
